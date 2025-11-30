@@ -1,0 +1,69 @@
+# Streaming Services + Smart TV Allowlist for Pi-hole
+
+# Paramount+
+cbsaask.pun.cbsiv.com
+cbsi.com
+cbsistatic.com
+paramountplus.com
+tags.tiqcdn.com
+bam.nr-data.net
+js-agent.newrelic.com
+cdn.cookielaw.org
+sdk.iad-3.braze.com
+
+# Hulu
+hulu.com
+(^ads?\.hulu\.com$|^hulu\.com$)
+
+# Netflix
+netflix.com
+ichnaea.netflix.com
+go.microsoft.com
+
+# HBO Max / Max
+max.com
+hbomax.com
+hbomaxcdn.com
+hbo.com
+warnermediacdn.com
+wbd.com
+wb.com
+
+# Disney+
+disney.com
+
+# Prime Video
+amazon.com
+amazon-adsystem.com
+apple.com
+amazonvideo.com
+aiv-cdn.net
+device-metrics-us.amazon.com
+
+# Universal Smart TV
+googletagmanager.com
+google-analytics.com
+crashlytics.com
+firebaseio.com
+config.publrs.com
+googleapis.com
+gstatic.com
+connectivitycheck.gstatic.com
+cloudfront.net
+
+# LG WebOS
+lgtvcommon.com
+ibis.lgappstv.com
+ad.lgappstv.com
+
+# Samsung Tizen
+samsung.com
+samsungads.com
+samsungcloudsolution.com
+config.samsungads.com
+spectrum.s5k.tv
+
+# Roku
+roku.com
+logs.roku.com
+cooper.roku.com
